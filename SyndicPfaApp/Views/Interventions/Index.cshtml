@@ -1,0 +1,47 @@
+﻿@model IEnumerable<SyndicPfaApp.Models.Intervention>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.InterventionDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ascenseur)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateEntretien)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.InterventionDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ascenseur.AscenseurName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateEntretien)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.InterventionId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.InterventionId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.InterventionId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
