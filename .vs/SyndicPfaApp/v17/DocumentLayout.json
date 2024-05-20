@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\views\\residents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\views\\residents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\models\\resident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\models\\resident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\views\\residents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\views\\residents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\views\\interventions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\views\\interventions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\views\\residents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\views\\residents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\views\\interventions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\views\\interventions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\views\\ascenseurs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\views\\ascenseurs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\migrations\\20240429191643_addmodelstodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\migrations\\20240429191643_addmodelstodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\syndicpfaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\syndicpfaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\controllers\\interventionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\controllers\\interventionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\models\\intervention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\models\\intervention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\models\\ascenseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\models\\ascenseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rostane\\source\\repos\\SyndicPfaApp\\SyndicPfaApp\\Migrations\\20240429194814_ChangeAttributes2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\controllers\\residentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\controllers\\residentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\controllers\\ascenseurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\controllers\\ascenseurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\migrations\\20240429195247_changeattributes2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\migrations\\20240429195247_changeattributes2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\migrations\\20240429193725_changeattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\migrations\\20240429193725_changeattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\migrations\\20240519185142_newdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\migrations\\20240519185142_newdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Residents\\Create.cshtml",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Views\\Residents\\Create.cshtml",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Residents\\Create.cshtml",
+              "RelativeToolTip": "SyndicPfaApp\\Views\\Residents\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T12:57:23.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Residents\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Views\\Residents\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Residents\\Edit.cshtml",
+              "RelativeToolTip": "SyndicPfaApp\\Views\\Residents\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T12:55:59.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Interventions\\Index.cshtml",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Views\\Interventions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Interventions\\Index.cshtml",
+              "RelativeToolTip": "SyndicPfaApp\\Views\\Interventions\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T12:50:07.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Residents\\Index.cshtml",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Views\\Residents\\Index.cshtml",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Residents\\Index.cshtml",
+              "RelativeToolTip": "SyndicPfaApp\\Views\\Residents\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T12:48:17.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SyndicPfaApp\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAA41AAAAAAAAAAAUwCg1AAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-20T12:44:47.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240519185142_newdb.cs",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Migrations\\20240519185142_newdb.cs",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Migrations\\20240519185142_newdb.cs",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Migrations\\20240519185142_newdb.cs",
+              "RelativeToolTip": "SyndicPfaApp\\Migrations\\20240519185142_newdb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:51:43.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Ascenseurs\\Index.cshtml",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Views\\Ascenseurs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Ascenseurs\\Index.cshtml",
+              "RelativeToolTip": "SyndicPfaApp\\Views\\Ascenseurs\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:48:42.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resident.cs",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Models\\Resident.cs",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Models\\Resident.cs",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Models\\Resident.cs",
+              "RelativeToolTip": "SyndicPfaApp\\Models\\Resident.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:33:41.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Interventions\\Create.cshtml",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Views\\Interventions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Interventions\\Create.cshtml",
+              "RelativeToolTip": "SyndicPfaApp\\Views\\Interventions\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T12:58:29.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SyndicPfaApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T17:33:41.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "SyndicPfaApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:57:51.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SyndicPfaApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T12:51:12.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240429194814_ChangeAttributes2.cs",
+              "DocumentMoniker": "C:\\Users\\rostane\\source\\repos\\SyndicPfaApp\\SyndicPfaApp\\Migrations\\20240429194814_ChangeAttributes2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\rostane\\source\\repos\\SyndicPfaApp\\SyndicPfaApp\\Migrations\\20240429194814_ChangeAttributes2.cs",
+              "ToolTip": "C:\\Users\\rostane\\source\\repos\\SyndicPfaApp\\SyndicPfaApp\\Migrations\\20240429194814_ChangeAttributes2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\rostane\\source\\repos\\SyndicPfaApp\\SyndicPfaApp\\Migrations\\20240429194814_ChangeAttributes2.cs",
+              "ViewState": "AQIAAA0AAAAAYWZmZmYSwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:48:14.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ResidentsController.cs",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Controllers\\ResidentsController.cs",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Controllers\\ResidentsController.cs",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Controllers\\ResidentsController.cs",
+              "RelativeToolTip": "SyndicPfaApp\\Controllers\\ResidentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:33:41.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Program.cs",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Program.cs",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Program.cs",
+              "RelativeToolTip": "SyndicPfaApp\\Program.cs",
+              "ViewState": "AQIAAAUAAACAY2ZmZmYkwAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:33:41.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "SyndicPfaApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T17:33:41.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\appsettings.json",
+              "RelativeToolTip": "SyndicPfaApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T17:33:41.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240429191643_AddModelsToDb.cs",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Migrations\\20240429191643_AddModelsToDb.cs",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Migrations\\20240429191643_AddModelsToDb.cs",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Migrations\\20240429191643_AddModelsToDb.cs",
+              "RelativeToolTip": "SyndicPfaApp\\Migrations\\20240429191643_AddModelsToDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:33:41.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InterventionsController.cs",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Controllers\\InterventionsController.cs",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Controllers\\InterventionsController.cs",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Controllers\\InterventionsController.cs",
+              "RelativeToolTip": "SyndicPfaApp\\Controllers\\InterventionsController.cs",
+              "ViewState": "AQIAACAAAADAMDMzMzMpwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:33:41.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "SyndicPfaApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAEAAADAMjMzMzMrwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T17:33:41.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SyndicPfaApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:33:41.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SyndicPfaApp.csproj",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\Source\\Repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\SyndicPfaApp.csproj",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\SyndicPfaApp.csproj",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\Source\\Repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\SyndicPfaApp.csproj",
+              "RelativeToolTip": "SyndicPfaApp\\SyndicPfaApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T17:33:41.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240429195247_ChangeAttributes2.cs",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Migrations\\20240429195247_ChangeAttributes2.cs",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Migrations\\20240429195247_ChangeAttributes2.cs",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Migrations\\20240429195247_ChangeAttributes2.cs",
+              "RelativeToolTip": "SyndicPfaApp\\Migrations\\20240429195247_ChangeAttributes2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:33:41.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Ascenseur.cs",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Models\\Ascenseur.cs",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Models\\Ascenseur.cs",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Models\\Ascenseur.cs",
+              "RelativeToolTip": "SyndicPfaApp\\Models\\Ascenseur.cs",
+              "ViewState": "AQIAAAQAAADw//////8wwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:33:41.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AscenseursController.cs",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Controllers\\AscenseursController.cs",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Controllers\\AscenseursController.cs",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Controllers\\AscenseursController.cs",
+              "RelativeToolTip": "SyndicPfaApp\\Controllers\\AscenseursController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:33:41.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Intervention.cs",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Models\\Intervention.cs",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Models\\Intervention.cs",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Models\\Intervention.cs",
+              "RelativeToolTip": "SyndicPfaApp\\Models\\Intervention.cs",
+              "ViewState": "AQIAAAUAAABEMjMzMzMrwBAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:33:41.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240429193725_ChangeAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Migrations\\20240429193725_ChangeAttributes.cs",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Migrations\\20240429193725_ChangeAttributes.cs",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Migrations\\20240429193725_ChangeAttributes.cs",
+              "RelativeToolTip": "SyndicPfaApp\\Migrations\\20240429193725_ChangeAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:33:41.739Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rostane\\source\\repos\\SyndicPfaApp\\SyndicPfaApp\\SyndicPfaApp.csproj": {}
+    "C:\\Users\\UTILISATEUR\\Source\\Repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\SyndicPfaApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rostane\\source\\repos\\SyndicPfaApp\\SyndicPfaApp\\SyndicPfaApp.csproj": {
+    "C:\\Users\\UTILISATEUR\\Source\\Repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\SyndicPfaApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rostane\\source\\repos\\SyndicPfaApp\\SyndicPfaApp\\SyndicPfaApp.csproj",
+        "projectUniqueName": "C:\\Users\\UTILISATEUR\\Source\\Repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\SyndicPfaApp.csproj",
         "projectName": "SyndicPfaApp",
-        "projectPath": "C:\\Users\\rostane\\source\\repos\\SyndicPfaApp\\SyndicPfaApp\\SyndicPfaApp.csproj",
-        "packagesPath": "C:\\Users\\rostane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rostane\\source\\repos\\SyndicPfaApp\\SyndicPfaApp\\obj\\",
+        "projectPath": "C:\\Users\\UTILISATEUR\\Source\\Repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\SyndicPfaApp.csproj",
+        "packagesPath": "C:\\Users\\UTILISATEUR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UTILISATEUR\\Source\\Repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rostane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\UTILISATEUR\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -90,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     }
