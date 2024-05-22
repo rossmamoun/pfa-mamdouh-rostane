@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\views\\residents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\views\\residents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -59,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|c:\\users\\utilisateur\\source\\repos\\pfa-mamdouh-rostane\\syndicpfaapp\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C1B42FB8-C940-4199-A5A3-C7D4FC754521}|SyndicPfaApp\\SyndicPfaApp.csproj|solutionrelative:syndicpfaapp\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -117,7 +117,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -125,20 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Residents\\Create.cshtml",
-              "RelativeDocumentMoniker": "SyndicPfaApp\\Views\\Residents\\Create.cshtml",
-              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Residents\\Create.cshtml",
-              "RelativeToolTip": "SyndicPfaApp\\Views\\Residents\\Create.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA4AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T12:57:23.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Residents\\Edit.cshtml",
               "RelativeDocumentMoniker": "SyndicPfaApp\\Views\\Residents\\Edit.cshtml",
@@ -146,12 +133,11 @@
               "RelativeToolTip": "SyndicPfaApp\\Views\\Residents\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T12:55:59.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T12:55:59.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Interventions\\Index.cshtml",
               "RelativeDocumentMoniker": "SyndicPfaApp\\Views\\Interventions\\Index.cshtml",
@@ -159,12 +145,11 @@
               "RelativeToolTip": "SyndicPfaApp\\Views\\Interventions\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T12:50:07.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T12:50:07.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Residents\\Index.cshtml",
               "RelativeDocumentMoniker": "SyndicPfaApp\\Views\\Residents\\Index.cshtml",
@@ -177,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "SyndicPfaApp\\wwwroot\\css\\site.css",
@@ -185,8 +170,7 @@
               "RelativeToolTip": "SyndicPfaApp\\wwwroot\\css\\site.css",
               "ViewState": "AQIAAA41AAAAAAAAAAAUwCg1AAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-20T12:44:47.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T12:44:47.42Z"
             },
             {
               "$type": "Document",
@@ -202,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Ascenseurs\\Index.cshtml",
               "RelativeDocumentMoniker": "SyndicPfaApp\\Views\\Ascenseurs\\Index.cshtml",
@@ -210,12 +194,11 @@
               "RelativeToolTip": "SyndicPfaApp\\Views\\Ascenseurs\\Index.cshtml",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAAYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T18:48:42.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T18:48:42.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Resident.cs",
               "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Models\\Resident.cs",
               "RelativeDocumentMoniker": "SyndicPfaApp\\Models\\Resident.cs",
@@ -223,12 +206,11 @@
               "RelativeToolTip": "SyndicPfaApp\\Models\\Resident.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T17:33:41.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T17:33:41.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Interventions\\Create.cshtml",
               "RelativeDocumentMoniker": "SyndicPfaApp\\Views\\Interventions\\Create.cshtml",
@@ -236,12 +218,36 @@
               "RelativeToolTip": "SyndicPfaApp\\Views\\Interventions\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T12:58:29.454Z",
+              "WhenOpened": "2024-05-20T12:58:29.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Program.cs",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Program.cs",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Program.cs",
+              "RelativeToolTip": "SyndicPfaApp\\Program.cs",
+              "ViewState": "AQIAAAUAAACAY2ZmZmYkwAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:33:41.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Residents\\Create.cshtml",
+              "RelativeDocumentMoniker": "SyndicPfaApp\\Views\\Residents\\Create.cshtml",
+              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Residents\\Create.cshtml",
+              "RelativeToolTip": "SyndicPfaApp\\Views\\Residents\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T12:57:23.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SyndicPfaApp\\Views\\Shared\\_Layout.cshtml",
@@ -249,12 +255,11 @@
               "RelativeToolTip": "SyndicPfaApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T17:33:41.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T17:33:41.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "SyndicPfaApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -262,12 +267,11 @@
               "RelativeToolTip": "SyndicPfaApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AQIAAMoAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T18:57:51.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T18:57:51.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SyndicPfaApp\\Views\\Home\\Index.cshtml",
@@ -275,8 +279,7 @@
               "RelativeToolTip": "SyndicPfaApp\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T12:51:12.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T12:51:12.442Z"
             },
             {
               "$type": "Document",
@@ -304,18 +307,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Program.cs",
-              "RelativeDocumentMoniker": "SyndicPfaApp\\Program.cs",
-              "ToolTip": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Program.cs",
-              "RelativeToolTip": "SyndicPfaApp\\Program.cs",
-              "ViewState": "AQIAAAUAAACAY2ZmZmYkwAwAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T17:33:41.39Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
@@ -328,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\appsettings.json",
               "RelativeDocumentMoniker": "SyndicPfaApp\\appsettings.json",
@@ -340,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "20240429191643_AddModelsToDb.cs",
               "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Migrations\\20240429191643_AddModelsToDb.cs",
               "RelativeDocumentMoniker": "SyndicPfaApp\\Migrations\\20240429191643_AddModelsToDb.cs",
@@ -364,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\UTILISATEUR\\source\\repos\\pfa-mamdouh-rostane\\SyndicPfaApp\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "SyndicPfaApp\\Views\\Shared\\_LoginPartial.cshtml",
