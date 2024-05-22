@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SyndicPfaApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38599dd361491c131e3200cd6d7767437106ff79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+467e9645926bb421328936dcadcf3b1d4e81d77a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SyndicPfaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SyndicPfaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
